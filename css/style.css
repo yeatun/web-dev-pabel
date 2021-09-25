@@ -646,10 +646,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
 .finished > .timeline-time,.finished > .timeline-time:before,.finished > .timeline-time:after{
     background-color: #81b1fd,;
 }
-button{
+/* button{
     width:50px;
     position:absolute;
-}
+} */
 .slick-next{
     position:absolute;
     right:0px;
